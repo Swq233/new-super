@@ -34,6 +34,7 @@ export default {
   margin-top: 6px;
   text-align: center;
   margin-bottom: 8px;
+  width: 100%;
 }
 .recommendsitem {
   flex: 1;

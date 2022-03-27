@@ -15,8 +15,8 @@ export default {
 <style>
 .navbar {
   display: flex;
-  width: 100%;
   height: 44px;
+  width: 100%;
   text-align: center;
   line-height: 44px;
 }
@@ -26,5 +26,6 @@ export default {
 }
 .center {
   flex: 1;
+  line-height: 44px;
 }
 </style>
